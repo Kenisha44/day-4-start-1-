@@ -1,6 +1,6 @@
 import random
 
-random_integer = random.randint(1,10)
+random_integer = random.randint(1,10) #prints a random int between 1 and 10
 print(random_integer)
 
 random_float = random.random()
